@@ -1,0 +1,14 @@
+<launch>
+
+    <!-- pkg是包名 type是camkelists里指定的节点名 name可以改(rqt_graph按照这里的name显示) -->
+    <node pkg="learn_three" type="chao_node" name="chao"/>
+
+    <!-- 如果要单独看某个节点的运行信息的话，可以在最后加上launch-prefix="gnome-terminal -e"，
+    注意到采用这种方法后，如果关闭了这个节点的终端，这个被添加单独窗口打开的节点将停止运行 -->
+    <node pkg="learn_three" type="yao_node" name="yao" launch-prefix="gnome-terminal -e"/>
+
+    <!-- 这里如果没有output的话，只会输出yao_node发出的信息，
+    因为chao_node的是通过ROS_INFO输出的，ROS_WARN则无视限制暴力输出 -->
+    <node pkg="learn_three_second" type="player_node" name="player_node" output="screen"/> 
+
+</launch>
