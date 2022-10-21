@@ -21,3 +21,5 @@ ros学习对应视频网址
 https://www.bilibili.com/video/BV1Ci4y1L7ZZ/?spm_id_from=333.999.0.0&vd_source=bcd33cb0e1ac163510b361f161208e26
 
 https://www.bilibili.com/video/BV1Ub4y1a7PH/?spm_id_from=333.999.0.0&vd_source=bcd33cb0e1ac163510b361f161208e26
+
+https://www.bilibili.com/video/BV1BP4y1o7pw/?spm_id_from=333.999.0.0&vd_source=bcd33cb0e1ac163510b361f161208e26
