@@ -16,7 +16,7 @@ ros手册
 
 http://www.autolabor.com.cn/book/ROSTutorials/
 
-ros手册对应视频网址
+ros学习对应视频网址
 
 https://www.bilibili.com/video/BV1Ci4y1L7ZZ/?spm_id_from=333.999.0.0&vd_source=bcd33cb0e1ac163510b361f161208e26
 
